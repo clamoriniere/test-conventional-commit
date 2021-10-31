@@ -4,7 +4,7 @@ commits:
   disable: false
   strict: false
   limit: 100
-  all: true
+  all: false
 pull_request:
   conventional: true
 
